@@ -1,6 +1,11 @@
 1. Tran Ngoc Phuoc
 
+<<<<<<< HEAD
 
 4. Nguyen Tran Hoang Nhi
 5. Nguyen Hoang Linh
 6. Nguyen Thanh Nhan
+=======
+3. Dinh Tran Viet Anh
+4. Nguyen Tran Hoang Nhi
+>>>>>>> 34d756a (add name Dinh Tran Viet Anh)
